@@ -1,0 +1,6 @@
+fr\epita\entity\Auteur.class
+fr\epita\entity\Categorie.class
+fr\epita\entity\Emprunteur.class
+fr\epita\entity\Livre.class
+fr\epita\entity\Exemplaire.class
+fr\epita\entity\Enum.class
